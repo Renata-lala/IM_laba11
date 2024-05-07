@@ -1,0 +1,15 @@
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\bin\Debug\ИМ_лаба11.exe.config
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\bin\Debug\ИМ_лаба11.exe
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\bin\Debug\ИМ_лаба11.pdb
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\bin\Debug\MathNet.Numerics.dll
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\bin\Debug\System.ValueTuple.dll
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\bin\Debug\MathNet.Numerics.xml
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\bin\Debug\System.ValueTuple.xml
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.Form1.resources
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.Properties.Resources.resources
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.csproj.CopyComplete
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.exe
+C:\Users\slava\source\repos\ИМ_лаба11\ИМ_лаба11\obj\Debug\ИМ_лаба11.pdb
